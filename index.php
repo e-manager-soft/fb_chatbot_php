@@ -2,9 +2,9 @@
 
 // parameters
 
-$hubVerifyToken = 'cloudwaysschool';
+$hubVerifyToken = 'test_token_php';
 
-$accessToken =   "EAxxxxxxxxxxxqgBAKWAgizvoHnQLZBR7ZxxxxxxxxxxxxxxxxxxxxxxxxxxxxxptYSymSdocFFCp1ink3EHRVMrCSxxxxxxxxxxxxxxxxxxxxwMZApStyA8GbqAxxxxxxxxxxxxxxxxxxxxxxxxxxx9R6QttFVyNS4ZBurwZDZD";
+$accessToken =   "EAAOFjfPSwUIBAPKwrHRf0ouT4BUDOv7J57FZBWSBOSsqPOJnE2KXUaZAJ2dkq4vMYofOTuRUAdVL77x8cDJCYPAZCLZAn7QZAOTot8XEKUUQhuXSA180x3ZCcAcpbekZBtrC3iARegH3LwA3lgJ4kPMFhlo2qw0JHswTw1CwHQqZCZAHYvZAeRAsRU";
 
 // check token at setup
 
